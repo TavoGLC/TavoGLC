@@ -18,6 +18,8 @@
 ## Social Media 
 - [Stackoverflow](https://stackoverflow.com/users/10317656/tavoglc)
 - [Kaggle](https://www.kaggle.com/tavoglc)
+- [Instagram](https://www.instagram.com/t.dabe9)
+- [Twitter](https://twitter.com/TavoGLC)
 
 
 
