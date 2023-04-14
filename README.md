@@ -12,6 +12,7 @@
 
 ## Publications 
 
+-SARS-Cov2 seasonality and adaptation are driven by solar activity.[paper](https://www.researchsquare.com/article/rs-2797280/v1)
 - Applications of Sliding Sampling to Biological Sequences [paper](https://www.researchsquare.com/article/rs-1691291/latest).
 - Tight Junction Disruption Induced by Type 3 Secretion System Effectors Injected by Enteropathogenic and Enterohemorrhagic Escherichia coli [paper](https://www.frontiersin.org/articles/10.3389/fcimb.2016.00087/full).
 
