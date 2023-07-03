@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @TavoGLC
 - 👀 I’m interested in Data Science, Machine Learning and its intersection with genomics and biology
-- 🌱 I’m currently learning JAX, pythorch, haskell, julia 
+- 🌱 I’m currently learning JAX, pytorch, haskell, julia 
 
 # Some of my work 
 
